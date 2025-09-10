@@ -1,4 +1,4 @@
-public class Main {
+public class problem34 {
     public static int[] searchRange(int[] nums, int target) {
         int[] result={-1,-1};
         if(nums.length==0)
